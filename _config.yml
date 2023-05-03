@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: ELEC4630 Assignment 3 Blog
-description: Hello and welcome to my (Jacques Serfontein) blog. I will be posting updates in regards to things I have learned over the course of Assignmetn 3
+description: Hello and welcome to my (Jacques Serfontein) blog. I will be posting updates in regards to things I have learned over the course of Assignment 3
 github_username: jacques-serfontein
 
 # Email and twitter are optional:
@@ -21,12 +21,13 @@ use_math:
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
   - jekyll-github-metadata
+  - jekyll-remote-theme
 
 titles_from_headings:
   enabled:     true
