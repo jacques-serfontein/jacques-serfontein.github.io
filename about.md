@@ -1,4 +1,4 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+My name is Jacques Serfontein, and I am currently in my 5th year of a Bachelor of Engineering (Honours) / Masters of Engineering (Mechatronics), with an interest in computer vision, machine learning and practical applications of artificial intelligence in general.
 
