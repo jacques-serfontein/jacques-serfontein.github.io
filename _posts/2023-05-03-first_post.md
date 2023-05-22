@@ -1,4 +1,4 @@
-# Hello world and readers (3rd May)
+# Hello world and readers
 
 ## Day 1: A3 Unleashed
 
